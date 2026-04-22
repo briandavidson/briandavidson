@@ -1,8 +1,8 @@
 # Hey, I'm Brian 👋
 
-Senior full-stack engineer based in Michigan with 10+ years of experience building and shipping production web and mobile applications. I specialize in modern frontend development — React, Vue, Svelte, React Native — but I'm comfortable across the whole stack, from Node.js APIs to AWS infrastructure.
+Senior full-stack engineer based in Michigan with 10+ years of experience building and shipping production web and mobile applications. I specialize in modern frontend development, React, Vue, Svelte, React Native, but I'm comfortable across the whole stack, from Node.js APIs to AWS infrastructure.
 
-Most of my professional work lives in private repos (government clients, enterprise contracts), but here's a bit about what I've been building.
+Most of my professional work lives in private repos (government clients, enterprise contracts), but here's brief glimpse into what I've been building.
 
 ---
 
@@ -30,9 +30,9 @@ Built with: React, Node.js, Firebase, OpenAI API
 ---
 
 ### CanopyLog
-A volunteer and event management platform built for environmental nonprofits running tree planting programs. Organizers can create planting events with phases, manage volunteer signups, and track individual trees — including location, species, health status, and photos — over time.
+A volunteer and event management platform built for environmental nonprofits running tree planting programs. Organizers can create planting events with phases, manage volunteer signups, and track individual trees, including location, species, health status, and photos over time.
 
-Built with: Svelte, Node.js, PostgreSQL, Leaflet.js
+Built with: React, Node.js, PostgreSQL, Leaflet.js
 
 ![CanopyLog events map view showing planting locations across Albuquerque](assets/canopy_screenshot_1.jpg)
 ![Event details view with logistics, phases, and embedded map](assets/canopy_screenshot_2.jpg)
@@ -53,7 +53,7 @@ I've spent the last several years as a technical lead and senior engineer across
 
 ## 🎓 A Slightly Unusual Background
 
-I studied philosophy at Wayne State — specifically symbolic logic, formal logic, and philosophy of mind. It sounds like an odd path into software, but the way I think about system design, state, and edge cases probably owes more to that than I'd like to admit.
+I studied philosophy at Wayne State, specifically symbolic logic, formal logic, and philosophy of mind. It sounds like an odd path into software, but the way I think about system design, state, and edge cases probably owes more to that than I'd like to admit.
 
 ---
 
@@ -63,4 +63,4 @@ When I'm not staring at a screen I'm usually on my motorcycle, eating pizza, or 
 
 ---
 
-📫 **brian.davidson.1981@gmail.com** · [arc.dev profile](https://arc.dev/@briandavidson)
+📫 **brian.davidson.1981@gmail.com**
